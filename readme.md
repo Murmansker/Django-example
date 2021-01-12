@@ -91,7 +91,7 @@ https://docs.djangoproject.com/zh-hans/3.1/
   
 Django项目主页面  
   
-![Image text](https://github.com/Murmansker/Django-example/blob/master/image-homework/CD-2.jpg)
+![Image text](https://github.com/Murmansker/Django-example/blob/master/image-homework/CD-3.jpg)
 
 云盘具体功能仍未能实现  
 参考了一些教程构建了框架和思路  
