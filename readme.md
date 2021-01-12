@@ -93,7 +93,7 @@ Django项目主页面
   
 ![Image text](https://github.com/Murmansker/Django-example/blob/master/image-homework/CD-3.jpg)
 
-云盘具体功能仍未能实现  
+云盘具体功能仍未能完全实现  
 参考了一些教程构建了框架和思路  
 ·https://blog.csdn.net/qq_51329314/article/details/112151761?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-6&spm=1001.2101.3001.4242  
 
