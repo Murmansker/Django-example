@@ -10,13 +10,13 @@
   
 i-2zebgg7ge2poc9g7w03r    （murlight）  
 2  vCPU    4GiB (I/O优化)     1Mbps   
-ip地址（公）：    39.105.163.103  
-ip地址（私有）：  172.27.165.193  
+ip地址(公)：  39.105.163.103  
+ip地址(私)：  172.27.165.193  
   
 ![Image text](https://github.com/Murmansker/Django-example/blob/master/image-homework/ECS-1.jpg)  
   
   
-#### 安全组概况
+#### 安全组设置
   
 ![Image text](https://github.com/Murmansker/Django-example/blob/master/image-homework/ECS-2.jpg)  
   
@@ -51,7 +51,7 @@ ip地址（私有）：  172.27.165.193
   
 可以正常访问，所有链接无异常  
   
-  
+  -------------------------------------------------------------------
   
   
 ## 作业2：django-clouddisk-example
@@ -83,4 +83,5 @@ Murmanskerのgithub主站 https://github.com/Murmansker
 ### 利用Django框架尝试编写应用
   
 参考教程：编写你的第一个Django应用  
-https://docs.djangoproject.com/zh-hans/2.0/intro/tutorial01/
+https://docs.djangoproject.com/zh-hans/3.1/
+
